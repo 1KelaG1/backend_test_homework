@@ -1,2 +1,2 @@
 print('Я домашка')
-print('ss')
+print('ssыыы')
